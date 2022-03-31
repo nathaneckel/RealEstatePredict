@@ -1,4 +1,4 @@
-# RealEstatePredict
+# Predicting Real Estate Values in Cuyahoga County Based On Prior Home Sales By Home Variables
 Attn: HR and Recruiters - This 18 minute presentation reviews the insights from my capstone project which can be found under "Real_Estate" here on my GitHub profile.
 I scraped the data from 20K home sales in the CLE market to find clues that would indicate advantages for real estate investment in the CLE marketplace.
 
